@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am Currently learn Data Analytics
+Aspiring Data Analyst passionate about data-driven decision making.
+Skilled in SQL, Python, Excel, and data analysis techniques.
+I enjoy working on real-world datasets, building projects, and continuously improving my analytical skills.
+Actively learning and exploring opportunities in data analytics.
 
 
 ## 🌐 Socials:
