@@ -1,5 +1,13 @@
 # 💫 About Me:
-🚀 I’m currently working on<br>Data Analytics projects using Python, SQL, Excel and Power BI<br><br>🤝 I’m looking to collaborate on<br>Data Analytics, SQL and Business Intelligence projects<br><br>🫱 I’m looking for help with<br>Building real-world data analytics and software projects<br><br>🌱 I’m currently learning<br>Advanced SQL, Power BI, DAX, AWS and Data Engineering<br><br>💬 Ask me about<br>Python, SQL, Pandas, Power BI, Excel and Data Analysis<br><br>⚡ Fun fact<br>I enjoy solving SQL problems and turning raw data into meaningful insights.
+
+Hi, I'm **Anishujama Khan**, a B.Tech Computer Science Engineering student with a strong interest in **Data Analytics, Python, SQL, and Business Intelligence**.
+
+I enjoy working with data, building analytical solutions, and developing practical applications using **Python, Pandas, NumPy, SQL, Excel, and Power BI**. I also have experience with **databases, APIs, JavaScript, AWS, and software development fundamentals**.
+
+I use GitHub to showcase my projects, coding practice, data analysis work, and continuous learning in technology.
+
+**Currently focused on:** Data Analytics • SQL • Python • Power BI • Databases • Problem Solving
+
 
 
 # 💻 Tech Stack:
@@ -8,17 +16,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=anishujama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anishujama&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anishujama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anishujama&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anishujama&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=anishujama&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
